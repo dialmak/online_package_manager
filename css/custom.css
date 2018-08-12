@@ -1,0 +1,592 @@
+
+.my_menu {
+  margin: 5px  5px  5px  0;
+  /* padding: 10px; */
+}
+
+.nopadding {
+	padding: 1px !important;
+	margin: 0px !important;
+}
+.my_css {
+/*	padding: 1px !important;
+	margin: 0 !important;
+	border: 0 !important;
+	overflow: visible !important;*/
+	overflow:  hidden !important;
+}
+
+.right_align {
+  margin-left: auto;
+  margin-right: 0em;
+}
+
+.comment{
+	font-family: PT Sans, Tahoma;
+	font-size:12px;
+	margin: 1px  5px  1px  1px;
+}
+.header{
+	font-family: PT Sans, Tahoma;
+	font-size: 18px;
+	font-weight:bold;
+	margin: 1px  5px  1px  1px;
+}
+
+.my_tooltip {
+color: #000080;
+font-size: 90%;
+}
+.my_tree {
+color: #000000;
+font-weight: 500;
+border: 0; !important;
+}
+
+.webix_tree_file{
+    background-image: url("../images/icons.png");
+    background-size: 16px 2800px;
+    height: 16px;
+    width: 16px;
+	margin:3px 2px 0px 2px;
+}
+
+.webix_tree_avast {
+    background-position: 0 -16px;
+}
+.webix_tree_eclipse {
+    background-position: 0 -32px;
+}
+.webix_tree_essentials {
+    background-position: 0 -48px;
+}
+.webix_tree_logmein {
+    background-position: 0 -64px;
+}
+.webix_tree_nvda {
+    background-position: 0 -80px;
+}
+.webix_tree_x7xt3 {
+    background-position: 0 -96px;
+}
+.webix_tree_v7du4 {
+    background-position: 0 -112px;
+}
+.webix_tree_krita {
+    background-position: 0 -128px;
+}
+.webix_tree_cutepdf {
+    background-position: 0 -144px;
+}
+.webix_tree_imgburn {
+    background-position: 0 -160px;
+}
+.webix_tree_ctn5d {
+    background-position: 0 -176px;
+}
+.webix_tree_avira {
+    background-position: 0 -192px;
+}
+.webix_tree_peazip {
+    background-position: 0 -208px;
+}
+.webix_tree_hzqlp {
+    background-position: 0 -224px;
+}
+.webix_tree_paintnet {
+    background-position: 0 -240px;
+}
+.webix_tree_avg {
+    background-position: 0 -256px;
+}
+.webix_tree_teamviewer {
+    background-position: 0 -272px;
+}
+.webix_tree_7zip {
+    background-position: 0 -288px;
+}
+.webix_tree_pcfmk {
+    background-position: 0 -304px;
+}
+.webix_tree_foxit {
+    background-position: 0 -320px;
+}
+.webix_tree_flashie {
+    background-position: 0 -336px;
+}
+.webix_tree_spybot2 {
+    background-position: 0 -352px;
+}
+.webix_tree_uzf2v {
+    background-position: 0 -368px;
+}
+.webix_tree_nlyqq {
+    background-position: 0 -384px;
+}
+.webix_tree_libreoffice {
+    background-position: 0 -400px;
+}
+.webix_tree_quicktime {
+    background-position: 0 -416px;
+}
+.webix_tree_3zx6d {
+    background-position: 0 -432px;
+}
+.webix_tree_fuxwe {
+    background-position: 0 -448px;
+}
+.webix_tree_discord {
+    background-position: 0 -464px;
+}
+.webix_tree_blender {
+    background-position: 0 -480px;
+}
+.webix_tree_y4lon {
+    background-position: 0 -496px;
+}
+.webix_tree_filezilla {
+    background-position: 0 -512px;
+}
+.webix_tree_sugarsync {
+    background-position: 0 -528px;
+}
+.webix_tree_faststone {
+    background-position: 0 -544px;
+}
+.webix_tree_xnview {
+    background-position: 0 -560px;
+}
+.webix_tree_rgsud {
+    background-position: 0 -576px;
+}
+.webix_tree_s5iox {
+    background-position: 0 -592px;
+}
+.webix_tree_realvnc {
+    background-position: 0 -608px;
+}
+.webix_tree_vscode {
+    background-position: 0 -624px;
+}
+.webix_tree_52igf {
+    background-position: 0 -640px;
+}
+.webix_tree_googledrivefilestream {
+    background-position: 0 -656px;
+}
+.webix_tree_kv7o6 {
+    background-position: 0 -672px;
+}
+.webix_tree_klitecodecs {
+    background-position: 0 -688px;
+}
+.webix_tree_qbittorrent {
+    background-position: 0 -704px;
+}
+.webix_tree_googleearth {
+    background-position: 0 -720px;
+}
+.webix_tree_tkao5 {
+    background-position: 0 -736px;
+}
+.webix_tree_vg6qb {
+    background-position: 0 -752px;
+}
+.webix_tree_launchy {
+    background-position: 0 -768px;
+}
+.webix_tree_3kdw7 {
+    background-position: 0 -784px;
+}
+.webix_tree_pojb2 {
+    background-position: 0 -800px;
+}
+.webix_tree_inkscape {
+    background-position: 0 -816px;
+}
+.webix_tree_spybot {
+    background-position: 0 -832px;
+}
+.webix_tree_7uz77 {
+    background-position: 0 -848px;
+}
+.webix_tree_evernote {
+    background-position: 0 -864px;
+}
+.webix_tree_sz6yu {
+    background-position: 0 -880px;
+}
+.webix_tree_rguyf {
+    background-position: 0 -896px;
+}
+
+.webix_tree_flash, .webix_tree_flashppapi {
+    background-position: 0 -912px;
+}
+.webix_tree_wezjy {
+    background-position: 0 -928px;
+}
+.webix_tree_gaa7u {
+    background-position: 0 -944px;
+}
+.webix_tree_greenshot {
+    background-position: 0 -960px;
+}
+.webix_tree_ao55b {
+    background-position: 0 -976px;
+}
+.webix_tree_l6zii {
+    background-position: 0 -992px;
+}
+.webix_tree_teracopy {
+    background-position: 0 -1008px;
+}
+.webix_tree_reader9, .webix_tree_reader10, .webix_tree_reader11 {
+    background-position: 0 -1024px;
+}
+.webix_tree_lytra {
+    background-position: 0 -1040px;
+}
+.webix_tree_shockwave {
+    background-position: 0 -1056px;
+}
+.webix_tree_hyrnw {
+    background-position: 0 -1072px;
+}
+.webix_tree_musicbee {
+    background-position: 0 -1088px;
+}
+.webix_tree_qlsyq {
+    background-position: 0 -1104px;
+}
+.webix_tree_v6i22 {
+    background-position: 0 -1120px;
+}
+.webix_tree_digsby {
+    background-position: 0 -1136px;
+}
+.webix_tree_sharex {
+    background-position: 0 -1152px;
+}
+.webix_tree_zn2av {
+    background-position: 0 -1168px;
+}
+.webix_tree_foobar {
+    background-position: 0 -1184px;
+}
+.webix_tree_sumatrapdf {
+    background-position: 0 -1200px;
+}
+.webix_tree_z66f4 {
+    background-position: 0 -1216px;
+}
+.webix_tree_handbrake {
+    background-position: 0 -1232px;
+}
+.webix_tree_dwq35 {
+    background-position: 0 -1248px;
+}
+.webix_tree_cccp {
+    background-position: 0 -1264px;
+}
+.webix_tree_mediamonkey {
+    background-position: 0 -1280px;
+}
+.webix_tree_irfanview {
+    background-position: 0 -1296px;
+}
+.webix_tree_audacity {
+    background-position: 0 -1312px;
+}
+.webix_tree_winmerge {
+    background-position: 0 -1328px;
+}
+.webix_tree_e4kvc {
+    background-position: 0 -1344px;
+}
+.webix_tree_ugssb {
+    background-position: 0 -1360px;
+}
+.webix_tree_4bvt2 {
+    background-position: 0 -1376px;
+}
+.webix_tree_utorrent {
+    background-position: 0 -1392px;
+}
+.webix_tree_ohjh4 {
+    background-position: 0 -1408px;
+}
+.webix_tree_gom {
+    background-position: 0 -1424px;
+}
+.webix_tree_opera {
+    background-position: 0 -1440px;
+}
+
+.webix_tree_operaChromium {
+    background-position: 0 -1440px;
+}
+
+.webix_tree_5swcn {
+    background-position: 0 -1456px;
+}
+.webix_tree_net , .webix_tree_net4, .webix_tree_net45, .webix_tree_net451, .webix_tree_net452, .webix_tree_net46, .webix_tree_net461, .webix_tree_net462, .webix_tree_net47, .webix_tree_net471, .webix_tree_net472 {
+    background-position: 0 -1472px;
+}
+.webix_tree_vcce6 {
+    background-position: 0 -1488px;
+}
+.webix_tree_epmrx {
+    background-position: 0 -1504px;
+}
+.webix_tree_windirstat {
+    background-position: 0 -1520px;
+}
+.webix_tree_keepass, .webix_tree_keepass2 {
+    background-position: 0 -1536px;
+}
+
+.webix_tree_uft3s {
+    background-position: 0 -1552px;
+}
+.webix_tree_webex {
+    background-position: 0 -1568px;
+}
+.webix_tree_ggvea {
+    background-position: 0 -1584px;
+}
+.webix_tree_malwarebytes {
+    background-position: 0 -1600px;
+}
+.webix_tree_gimp {
+    background-position: 0 -1616px;
+}
+.webix_tree_infrarecorder {
+    background-position: 0 -1632px;
+}
+.webix_tree_4pioc {
+    background-position: 0 -1648px;
+}
+.webix_tree_onedrive {
+    background-position: 0 -1664px;
+}
+.webix_tree_googlebackupandsync {
+    background-position: 0 -1680px;
+}
+.webix_tree_winamp {
+    background-position: 0 -1696px;
+}
+.webix_tree_citrixreceiver {
+    background-position: 0 -1712px;
+}
+.webix_tree_air {
+    background-position: 0 -1728px;
+}
+.webix_tree_ahzdb {
+    background-position: 0 -1744px;
+}
+.webix_tree_ycngg {
+    background-position: 0 -1760px;
+}
+.webix_tree_java, .webix_tree_java6, .webix_tree_javax6, .webix_tree_java7, .webix_tree_javax7, .webix_tree_javax9, .webix_tree_javax10, .webix_tree_javax {
+    background-position: 0 -1776px;
+}
+.webix_tree_a53l6 {
+    background-position: 0 -1792px;
+}
+.webix_tree_plk4r {
+    background-position: 0 -1808px;
+}
+.webix_tree_pidgin {
+    background-position: 0 -1824px;
+}
+.webix_tree_bj6g2 {
+    background-position: 0 -1840px;
+}
+.webix_tree_spotify {
+    background-position: 0 -1856px;
+}
+.webix_tree_everything {
+    background-position: 0 -1872px;
+}
+.webix_tree_podud {
+    background-position: 0 -1888px;
+}
+.webix_tree_dropbox {
+    background-position: 0 -1904px;
+}
+.webix_tree_super {
+    background-position: 0 -1920px;
+}
+.webix_tree_pnalu {
+    background-position: 0 -1936px;
+}
+.webix_tree_cdburnerxp {
+    background-position: 0 -1952px;
+}
+.webix_tree_steam {
+    background-position: 0 -1968px;
+}
+.webix_tree_gotomeeting {
+    background-position: 0 -1984px;
+}
+.webix_tree_liwsj {
+    background-position: 0 -2000px;
+}
+.webix_tree_putty {
+    background-position: 0 -2016px;
+}
+.webix_tree_xiiso {
+    background-position: 0 -2032px;
+}
+.webix_tree_jdk, .webix_tree_jdkx, .webix_tree_jdk8, .webix_tree_jdkx8, .webix_tree_jdk6 {
+    background-position: 0 -2048px;
+}
+
+.webix_tree_dgx43 {
+    background-position: 0 -2064px;
+}
+.webix_tree_yj2io {
+    background-position: 0 -2080px;
+}
+.webix_tree_vrosz {
+    background-position: 0 -2096px;
+}
+.webix_tree_chrome {
+    background-position: 0 -2112px;
+}
+.webix_tree_6kmow {
+    background-position: 0 -2128px;
+}
+.webix_tree_vlc {
+    background-position: 0 -2144px;
+}
+.webix_tree_openoffice {
+    background-position: 0 -2160px;
+}
+.webix_tree_picasa {
+    background-position: 0 -2176px;
+}
+.webix_tree_acrobat {
+    background-position: 0 -2192px;
+}
+.webix_tree_ud27w {
+    background-position: 0 -2208px;
+}
+.webix_tree_li57b {
+    background-position: 0 -2224px;
+}
+.webix_tree_o2i2w {
+    background-position: 0 -2240px;
+}
+.webix_tree_uws6g {
+    background-position: 0 -2256px;
+}
+.webix_tree_trillian {
+    background-position: 0 -2272px;
+}
+.webix_tree_2kgg2 {
+    background-position: 0 -2288px;
+}
+.webix_tree_revo {
+    background-position: 0 -2304px;
+}
+.webix_tree_f2k5e {
+    background-position: 0 -2320px;
+}
+.webix_tree_classicstart {
+    background-position: 0 -2336px;
+}
+.webix_tree_python {
+    background-position: 0 -2352px;
+}
+.webix_tree_gme2l {
+    background-position: 0 -2368px;
+}
+.webix_tree_ug2wk {
+    background-position: 0 -2384px;
+}
+.webix_tree_r2en5 {
+    background-position: 0 -2400px;
+}
+.webix_tree_clbyu {
+    background-position: 0 -2416px;
+}
+.webix_tree_notepadplusplus {
+    background-position: 0 -2432px;
+}
+.webix_tree_googledrive {
+    background-position: 0 -2448px;
+}
+.webix_tree_2qpdz {
+    background-position: 0 -2464px;
+}
+.webix_tree_zcbpv {
+    background-position: 0 -2480px;
+}
+.webix_tree_firefox, .webix_tree_firefoxesr {
+    background-position: 0 -2496px;
+}
+
+.webix_tree_d33fm {
+    background-position: 0 -2512px;
+}
+.webix_tree_6go7w {
+    background-position: 0 -2528px;
+}
+.webix_tree_itunes {
+    background-position: 0 -2544px;
+}
+.webix_tree_reader, .webix_tree_readerclassic, .webix_tree_readerclassic2015 {
+    background-position: 0 -2560px;
+}
+.webix_tree_pdfcreator {
+    background-position: 0 -2576px;
+}
+.webix_tree_yie53 {
+    background-position: 0 -2592px;
+}
+.webix_tree_mozy {
+    background-position: 0 -2608px;
+}
+.webix_tree_vpt66 {
+    background-position: 0 -2624px;
+}
+.webix_tree_silverlight {
+    background-position: 0 -2640px;
+}
+.webix_tree_equxj {
+    background-position: 0 -2656px;
+}
+.webix_tree_iblk2 {
+    background-position: 0 -2672px;
+}
+.webix_tree_aimp {
+    background-position: 0 -2688px;
+}
+.webix_tree_skype {
+    background-position: 0 -2704px;
+}
+.webix_tree_tweetdeck {
+    background-position: 0 -2720px;
+}
+.webix_tree_winrar {
+    background-position: 0 -2736px;
+}
+.webix_tree_glary {
+    background-position: 0 -2752px;
+}
+.webix_tree_q3hh2 {
+    background-position: 0 -2768px;
+}
+.webix_tree_thunderbird, .webix_tree_thunderbirdesr {
+    background-position: 0 -2784px;
+}
+
+.webix_tree_winscp {
+    background-image: url("../images/winscp.png");
+    background-size: 16px 16px;
+    height: 16px;
+    width: 16px;
+	margin:3px 2px 0px 2px;
+}
