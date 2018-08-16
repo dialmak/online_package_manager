@@ -680,12 +680,6 @@ compression = [
 			"url": "paint.net",
 			"icon": "paintnet"
 		}, {
-			"id": "55",
-			"title": "Picasa",
-			"desc": "Photo Manager by Google 3.9.141.259",
-			"url": "picasa",
-			"icon": "picasa"
-		}, {
 			"id": "56",
 			"title": "GIMP",
 			"desc": "Open Source Image Editor 2.10.4",
