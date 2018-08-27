@@ -543,7 +543,7 @@ runtimes = [
 			"id": "38",
 			"title": ".NET 3.5",
 			"desc": "Microsoft .NET 3.5 SP1",
-			"url": ".net",
+			"url": ".net3.5",
 			"icon": "net"
 		}, {
 			"id": "39",
