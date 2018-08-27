@@ -887,12 +887,12 @@ documents = [
 			"url": "pidgin",
 			"icon": "pidgin"
 		}, {
-			"id": "9",
-			"title": "Digsby",
-			"desc": "Multi-IM Client Build 30295",
-			"url": "digsby",
-			"icon": "digsby"
-		}, {
+			// "id": "9",
+			// "title": "Digsby",
+			// "desc": "Multi-IM Client Build 30295",
+			// "url": "digsby",
+			// "icon": "digsby"
+		// }, {
 			"id": "10",
 			"title": "Thunderbird",
 			"desc": "Email Reader by Mozilla 60.0",
