@@ -250,18 +250,6 @@ utilities = [{
 			"url": "notepadplusplus",
 			"icon": "notepadplusplus"
 		}, {
-			"id": "117",
-			"title": "JDK 8",
-			"desc": "Java Development Kit 8u181-b13",
-			"url": "jdk8",
-			"icon": "jdk8"
-		}, {
-			"id": "118",
-			"title": "JDK x64 8",
-			"desc": "Java Development Kit 8u181-b13",
-			"url": "jdkx8",
-			"icon": "jdkx8"
-		}, {
 			"id": "119",
 			"title": "JDK",
 			"desc": "Java Development Kit 8u181-b13",
@@ -273,6 +261,18 @@ utilities = [{
 			"desc": "Java Development Kit 8u181-b13",
 			"url": "jdkx",
 			"icon": "jdkx"
+		}, {
+			"id": "117",
+			"title": "JDK 8",
+			"desc": "Java Development Kit 8u181-b13",
+			"url": "jdk8",
+			"icon": "jdk8"
+		}, {
+			"id": "118",
+			"title": "JDK x64 8",
+			"desc": "Java Development Kit 8u181-b13",
+			"url": "jdkx8",
+			"icon": "jdkx8"
 		}, {
 			"id": "121",
 			"title": "JDK 6",
