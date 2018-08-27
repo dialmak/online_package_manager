@@ -26,7 +26,7 @@ browsers = [{
 		}, {
 			"id": "3",
 			"title": "Opera Chromium",
-			"desc": "Alternative Browser 54.0.2952.71",
+			"desc": "Alternative Browser 55.0.2994.37",
 			"url": "operaChromium",
 			"icon": "operaChromium"
 		}, {
@@ -51,7 +51,7 @@ browsers = [{
 		"data": [{
 			"id": "84",
 			"title": "qBittorrent",
-			"desc": "Free Bittorrent Client 4.1.1",
+			"desc": "Free Bittorrent Client 4.1.2",
 			"url": "qbittorrent",
 			"icon": "qbittorrent"
 		}, {
@@ -70,7 +70,7 @@ browsers = [{
 		"data": [{
 			"id": "93",
 			"title": "Evernote",
-			"desc": "Online Notes 6.13.14.7474",
+			"desc": "Online Notes 6.14.5.7671",
 			"url": "evernote",
 			"icon": "evernote"
 		}, {
@@ -159,7 +159,7 @@ utilities = [{
 		"data": [{
 			"id": "100",
 			"title": "TeamViewer",
-			"desc": "Remote Access Tool 13.2.5287",
+			"desc": "Remote Access Tool 13.2.14327",
 			"url": "teamviewer",
 			"icon": "teamviewer"
 		}, {
@@ -189,7 +189,7 @@ utilities = [{
 		}, {
 			"id": "105",
 			"title": "Revo",
-			"desc": "App Uninstaller/Reverse Ninite 2.0.5",
+			"desc": "App Uninstaller/Reverse 2.0.5",
 			"url": "revo",
 			"icon": "revo"
 		}, {
@@ -207,7 +207,7 @@ utilities = [{
 		}, {
 			"id": "108",
 			"title": "Glary",
-			"desc": "System Utilities 5.103.0.125",
+			"desc": "System Utilities 5.104.0.128",
 			"url": "glary",
 			"icon": "glary"
 		}, {
@@ -306,7 +306,7 @@ utilities = [{
 		}, {
 			"id": "126",
 			"title": "Visual Studio Code",
-			"desc": "Programmer's Editor 1.25.1",
+			"desc": "Programmer's Editor 1.26.1",
 			"url": "vscode",
 			"icon": "vscode"
 		}]
@@ -366,7 +366,7 @@ media = [
 		}, {
 			"id": "20",
 			"title": "K-Lite Codecs",
-			"desc": "Video decoders plus Media Player Classic 14.3.6",
+			"desc": "Video decoders plus Media Player Classic 14.4.0",
 			"url": "klitecodecs",
 			"icon": "klitecodecs"
 		}, {
@@ -427,7 +427,7 @@ media = [
 		}, {
 			"id": "78",
 			"title": "Avast",
-			"desc": "Avast Free Antivirus 18.5.3931",
+			"desc": "Avast Free Antivirus 18.6.3983",
 			"url": "avast",
 			"icon": "avast"
 		}, {
@@ -451,13 +451,13 @@ media = [
 		}, {
 			"id": "82",
 			"title": "Avira",
-			"desc": "Avira Free Antivirus 15.0.37.326",
+			"desc": "Avira Free Antivirus 15.0.38.15",
 			"url": "avira",
 			"icon": "avira"
 		}, {
 			"id": "83",
 			"title": "Super",
-			"desc": "SUPERAntiSpyware Free 6.0.1260",
+			"desc": "SUPERAntiSpyware Free 6.0.1262",
 			"url": "super",
 			"icon": "super"
 		}]
@@ -682,7 +682,7 @@ compression = [
 		}, {
 			"id": "56",
 			"title": "GIMP",
-			"desc": "Open Source Image Editor 2.10.4",
+			"desc": "Open Source Image Editor 2.10.6",
 			"url": "gimp",
 			"icon": "gimp"
 		}, {
@@ -731,7 +731,7 @@ compression = [
 		"data": [{
 			"id": "86",
 			"title": "Dropbox",
-			"desc": "Great Online Backup/File Sync 54.4.90",
+			"desc": "Great Online Backup/File Sync 55.4.171",
 			"url": "dropbox",
 			"icon": "dropbox"
 		}, {
@@ -796,12 +796,12 @@ documents = [
 			"url": "libreoffice",
 			"icon": "libreoffice"
 		}, {
-			"id": "65",
-			"title": "Reader DC",
-			"desc": "Adobe PDF Reader 18.11.20055",
-			"url": "reader",
-			"icon": "reader"
-		}, {
+			// "id": "65",
+			// "title": "Reader DC",
+			// "desc": "Adobe PDF Reader 18.11.20055",
+			// "url": "reader",
+			// "icon": "reader"
+		// }, {
 			"id": "66",
 			"title": "Reader 17",
 			"desc": "Adobe PDF Reader 17.11.30096",
@@ -814,26 +814,26 @@ documents = [
 			"url": "readerclassic2015",
 			"icon": "readerclassic2015"
 		}, {
-			"id": "68",
-			"title": "Reader 11",
-			"desc": "Adobe PDF Reader 11.0.23",
-			"url": "reader11",
-			"icon": "reader11"
-		}, {
-			"id": "69",
-			"title": "Reader 10",
-			"desc": "Adobe PDF Reader 10.1.16",
-			"url": "reader10",
-			"icon": "reader10"
-		}, {
-			"id": "70",
-			"title": "Reader 9",
-			"desc": "Adobe PDF Reader 9.5.5",
-			"url": "reader9",
-			"icon": "reader9"
-		}, {
+			// "id": "68",
+			// "title": "Reader 11",
+			// "desc": "Adobe PDF Reader 11.0.23",
+			// "url": "reader11",
+			// "icon": "reader11"
+		// }, {
+			// "id": "69",
+			// "title": "Reader 10",
+			// "desc": "Adobe PDF Reader 10.1.16",
+			// "url": "reader10",
+			// "icon": "reader10"
+		// }, {
+			// "id": "70",
+			// "title": "Reader 9",
+			// "desc": "Adobe PDF Reader 9.5.5",
+			// "url": "reader9",
+			// "icon": "reader9"
+		// }, {
 			"id": "71",
-			"title": "Acrobat",
+			"title": "Acrobat Updates",
 			"desc": "Acrobat Std/Pro Updates 9.x-2017",
 			"url": "acrobat",
 			"icon": "acrobat"
@@ -877,7 +877,7 @@ documents = [
 		}, {
 			"id": "7",
 			"title": "Skype",
-			"desc": "Internet Telephone 8.27.0.85",
+			"desc": "Internet Telephone 8.28.0.41",
 			"url": "skype",
 			"icon": "skype"
 		}, {
