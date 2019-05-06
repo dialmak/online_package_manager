@@ -12,7 +12,7 @@ var myTree6;
 function about() {
     webix.alert({
         border: true,
-        text: "by dialmak for <a href='http://usbtor.ru/' target='_blank'>http://usbtor.ru/</a>"
+        text: "by dialmak"
     });
 }
 
