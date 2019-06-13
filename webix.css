@@ -5308,7 +5308,7 @@ label.webix_required:after {
 @font-face {
   font-family: 'PT Sans';
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
   src: local('PT Sans'), local('PTSans-Regular'), url('fonts/PTS-webfont.woff') format('woff');
 }
 @font-face {
