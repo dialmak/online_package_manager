@@ -38,7 +38,7 @@ browsers = [{
 		}, {
 			"id": "5",
 			"title": "Firefox ESR",
-			"desc": "Extended Support Release",
+			"desc": "Firefox Extended Support Release 60",
 			"url": "firefoxesr",
 			"icon": "firefoxesr"
 		}, {
@@ -46,7 +46,43 @@ browsers = [{
 			"title": "Firefox ESR 52",
 			"desc": "Firefox Extended Support Release 52",
 			"url": "firefoxesr52",
-			"icon": "firefoxesr"			
+			"icon": "firefoxesr"	
+		}, {
+			"id": "202",
+			"title": "Firefox ESR 45",
+			"desc": "Firefox Extended Support Release 45",
+			"url": "firefoxesr45",
+			"icon": "firefoxesr"
+		}, {
+			"id": "203",
+			"title": "Firefox ESR 38",
+			"desc": "Firefox Extended Support Release 38",
+			"url": "firefoxesr38",
+			"icon": "firefoxesr"
+		}, {
+			"id": "204",
+			"title": "Firefox ESR 31",
+			"desc": "Firefox Extended Support Release 31",
+			"url": "firefoxesr31",
+			"icon": "firefoxesr"
+		}, {
+			"id": "205",
+			"title": "Firefox ESR 24",
+			"desc": "Firefox Extended Support Release 24",
+			"url": "firefoxesr24",
+			"icon": "firefoxesr"	
+		}, {
+			"id": "206",
+			"title": "Firefox ESR 17",
+			"desc": "Firefox Extended Support Release 17",
+			"url": "firefoxesr17",
+			"icon": "firefoxesr"
+		}, {
+			"id": "207",
+			"title": "Firefox ESR 10",
+			"desc": "Firefox Extended Support Release 10",
+			"url": "firefoxesr10",
+			"icon": "firefoxesr"		
 		}]
 	},	{
 		"id": "sha",
