@@ -509,18 +509,6 @@ runtimes = [
 			"url": "javax",
 			"icon": "javax"
 		}, {
-			"id": "32",
-			"title": "Java x64 10",
-			"desc": "64-bit Java Runtime (JRE) 10.0.2",
-			"url": "javax10",
-			"icon": "javax10"
-		}, {
-			"id": "33",
-			"title": "Java x64 9",
-			"desc": "64-bit Java Runtime (JRE) 9.0.4",
-			"url": "javax9",
-			"icon": "javax9"
-		}, {
 			"id": "34",
 			"title": "Java 7",
 			"desc": "Java Runtime Environment (JRE) 7u79-b15",
@@ -544,6 +532,24 @@ runtimes = [
 			"desc": "64-bit Java Runtime (JRE) 6u45-b06",
 			"url": "javax6",
 			"icon": "javax6"
+		}, {
+			"id": "32",
+			"title": "Java (AdoptOpenJDK) 8",
+			"desc": "32-bit Java Runtime (JRE) 8u212-b03",
+			"url": "adoptjava8",
+			"icon": "javax10"
+		}, {
+			"id": "33",
+			"title": "Java (AdoptOpenJDK) x64 8",
+			"desc": "64-bit Java Runtime (JRE) 8u212-b03",
+			"url": "adoptjavax8",
+			"icon": "javax9"
+		}, {
+			"id": "210",
+			"title": "Java (AdoptOpenJDK) x64 11",
+			"desc": "64-bit Java Runtime (JRE) 11.0.3",
+			"url": "adoptjavax11",
+			"icon": "javax9"			
 		}, {
 			"id": "38",
 			"title": ".NET 3.5",
