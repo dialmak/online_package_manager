@@ -534,22 +534,22 @@ runtimes = [
 			"icon": "javax6"
 		}, {
 			"id": "32",
-			"title": "Java (AdoptOpenJDK) 8",
+			"title": "AdoptOpenJDK 8",
 			"desc": "32-bit Java Runtime (JRE) 8u212-b03",
 			"url": "adoptjava8",
-			"icon": "javax10"
+			"icon": "adoptjava"
 		}, {
 			"id": "33",
-			"title": "Java (AdoptOpenJDK) x64 8",
+			"title": "AdoptOpenJDK x64 8",
 			"desc": "64-bit Java Runtime (JRE) 8u212-b03",
 			"url": "adoptjavax8",
-			"icon": "javax9"
+			"icon": "adoptjava"
 		}, {
 			"id": "210",
-			"title": "Java (AdoptOpenJDK) x64 11",
+			"title": "AdoptOpenJDK x64 11",
 			"desc": "64-bit Java Runtime (JRE) 11.0.3",
 			"url": "adoptjavax11",
-			"icon": "javax9"			
+			"icon": "adoptjava"			
 		}, {
 			"id": "38",
 			"title": ".NET 3.5",
