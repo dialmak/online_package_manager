@@ -18,17 +18,17 @@ browsers = [{
 			"url": "chrome",
 			"icon": "chrome"
 		}, {
-			"id": "2",
-			"title": "Opera",
-			"desc": "Alternative Browser",
-			"url": "opera",
-			"icon": "opera"
-		}, {
 			"id": "3",
 			"title": "Opera Chromium",
 			"desc": "Alternative Browser",
 			"url": "operaChromium",
 			"icon": "operaChromium"
+		}, {
+			"id": "2",
+			"title": "Opera 12",
+			"desc": "Legacy Alternative Browser 12.17",
+			"url": "opera",
+			"icon": "opera"	
 		}, {
 			"id": "4",
 			"title": "Firefox",
@@ -41,6 +41,12 @@ browsers = [{
 			"desc": "Extended Support Release",
 			"url": "firefoxesr",
 			"icon": "firefoxesr"
+		}, {
+			"id": "201",
+			"title": "Firefox ESR 52",
+			"desc": "Firefox Extended Support Release 52",
+			"url": "firefoxesr",
+			"icon": "firefoxesr"			
 		}]
 	},	{
 		"id": "sha",
@@ -606,7 +612,7 @@ runtimes = [
 			"url": ".net4.7.2",
 			"icon": "net472"
 		}, {
-			"id": "148",
+			"id": "200",
 			"title": ".NET 4.8",
 			"desc": "Microsoft .NET 4.8.03761",
 			"url": ".net4.8",
@@ -614,19 +620,19 @@ runtimes = [
 		}, {
 			"id": "49",
 			"title": "Silverlight",
-			"desc": "Microsoft Silverlight 5.1.50907.0",
+			"desc": "Microsoft Silverlight",
 			"url": "silverlight",
 			"icon": "silverlight"
 		}, {
 			"id": "50",
 			"title": "Air",
-			"desc": "Adobe Air 30.0.0.107",
+			"desc": "Adobe Air",
 			"url": "air",
 			"icon": "air"
 		}, {
 			"id": "51",
 			"title": "Shockwave",
-			"desc": "Shockwave Player 12.3.4.204",
+			"desc": "Shockwave Player",
 			"url": "shockwave",
 			"icon": "shockwave"
 		}]
