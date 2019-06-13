@@ -2169,7 +2169,7 @@ div.webix_modal_cover {
 }
 /*basis*/
 .webix_tree .webix_scroll_cont > .webix_tree_leaves {
-  padding: 9px 10px 9px 9px;
+  padding: 9px 2px 9px 9px;
 }
 .webix_tree_item {
   clear: both;
