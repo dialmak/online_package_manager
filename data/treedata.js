@@ -152,43 +152,6 @@ browsers = [{
 			"url": "nvda",
 			"icon": "nvda"
 		}]
-	}, {
-		"id": "ext",
-		"title": "Pro Extras",
-		"desc": "Pro Extras",
-		"url": "",
-		"open": true,
-		"data": [{
-			"id": "127",
-			"title": "WebEx",
-			"desc": "WebEx Connect",
-			"url": "webex",
-			"icon": "webex"
-		}, {
-			"id": "128",
-			"title": "Citrix Receiver",
-			"desc": "Citrix Receiver",
-			"url": "citrixreceiver",
-			"icon": "citrixreceiver"
-		}, {
-			"id": "129",
-			"title": "TweetDeck",
-			"desc": "Twitter Client",
-			"url": "tweetdeck",
-			"icon": "tweetdeck"
-		}, {
-			"id": "130",
-			"title": "GoToMeeting",
-			"desc": "Online Meeting",
-			"url": "gotomeeting",
-			"icon": "gotomeeting"
-		}, {
-			"id": "131",
-			"title": "LogMeIn",
-			"desc": "Remote Access Free/Pro",
-			"url": "logmein",
-			"icon": "logmein"
-		}]
 	}
 ];
 
@@ -276,7 +239,7 @@ utilities = [{
 		"data": [{
 			"id": "114",
 			"title": "Python",
-			"desc": "Great Programming Language",
+			"desc": "Great Programming Language 2.7.16",
 			"url": "python",
 			"icon": "python"
 		}, {
@@ -958,6 +921,43 @@ documents = [
 			"desc": "Trillian IM",
 			"url": "trillian",
 			"icon": "trillian"
+		}]
+	}, {
+		"id": "ext",
+		"title": "Pro Extras",
+		"desc": "Pro Extras",
+		"url": "",
+		"open": true,
+		"data": [{
+			"id": "127",
+			"title": "WebEx",
+			"desc": "WebEx Connect",
+			"url": "webex",
+			"icon": "webex"
+		}, {
+			"id": "128",
+			"title": "Citrix Receiver",
+			"desc": "Citrix Receiver",
+			"url": "citrixreceiver",
+			"icon": "citrixreceiver"
+		}, {
+			"id": "129",
+			"title": "TweetDeck",
+			"desc": "Twitter Client",
+			"url": "tweetdeck",
+			"icon": "tweetdeck"
+		}, {
+			"id": "130",
+			"title": "GoToMeeting",
+			"desc": "Online Meeting",
+			"url": "gotomeeting",
+			"icon": "gotomeeting"
+		}, {
+			"id": "131",
+			"title": "LogMeIn",
+			"desc": "Remote Access Free/Pro",
+			"url": "logmein",
+			"icon": "logmein"
 		}]
 	}
 
