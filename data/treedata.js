@@ -384,7 +384,7 @@ media = [
 		}, {
 			"id": "23",
 			"title": "CCCP",
-			"desc": "Video decoders plus MPC,
+			"desc": "Video decoders plus MPC",
 			"url": "cccp",
 			"icon": "cccp"
 		}, {
