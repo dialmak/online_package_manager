@@ -45,7 +45,7 @@ browsers = [{
 			"id": "201",
 			"title": "Firefox ESR 52",
 			"desc": "Firefox Extended Support Release 52",
-			"url": "firefoxesr",
+			"url": "firefoxesr52",
 			"icon": "firefoxesr"			
 		}]
 	},	{
