@@ -849,12 +849,12 @@ documents = [
 			// "url": "reader9",
 			// "icon": "reader9"
 		// }, {
-			"id": "71",
-			"title": "Acrobat Updates",
-			"desc": "Acrobat Std/Pro Updates 9.x-2017",
-			"url": "acrobat",
-			"icon": "acrobat"
-		}, {
+		        // "id": "71",
+		        // title": "Acrobat Updates",
+		        // "desc": "Acrobat Std/Pro Updates 9.x-2017",
+		        // "url": "acrobat",
+		        // "icon": "acrobat"
+		// }, {
 			"id": "72",
 			"title": "SumatraPDF",
 			"desc": "Lightweight PDF Reader",
