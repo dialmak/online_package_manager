@@ -606,6 +606,12 @@ runtimes = [
 			"url": ".net4.7.2",
 			"icon": "net472"
 		}, {
+			"id": "148",
+			"title": ".NET 4.8",
+			"desc": "Microsoft .NET 4.8.03761",
+			"url": ".net4.8",
+			"icon": "net472"			
+		}, {
 			"id": "49",
 			"title": "Silverlight",
 			"desc": "Microsoft Silverlight 5.1.50907.0",
