@@ -499,13 +499,13 @@ runtimes = [
 		}, {
 			"id": "30",
 			"title": "Java",
-			"desc": "Java Runtime Environment (JRE) 8u181-b13",
+			"desc": "Java Runtime Environment (JRE) 8u211-b12",
 			"url": "java",
 			"icon": "java"
 		}, {
 			"id": "31",
 			"title": "Java x64",
-			"desc": "64-bit Java Runtime (JRE) 8u181-b13",
+			"desc": "64-bit Java Runtime (JRE) 8u211-b12",
 			"url": "javax",
 			"icon": "javax"
 		}, {
