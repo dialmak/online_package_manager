@@ -90,7 +90,7 @@ browsers = [{
 			"url": "firefoxesr10",
 			"icon": "firefoxesr"		
 		}]
-		]
+		}]
 	},	{
 		"id": "sha",
 		"title": "File Sharing",
