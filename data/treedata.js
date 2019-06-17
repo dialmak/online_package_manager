@@ -44,7 +44,7 @@ browsers = [{
 		}, {
 		"id": "ffesr",
 		"title": "Firefox ESR Old",
-		"desc": "Firefox ESR Old",
+		"desc": "Firefox ESR Old Versions",
 		"url": "",
 		"open": true,
 		"data": [{
@@ -584,7 +584,7 @@ runtimes = [
 		}, {
 		"id": "netold",
 		"title": ".NET Old",
-		"desc": ".NET Old",
+		"desc": "Microsoft .NET Old Versions",
 		"url": "",
 		"open": true,
 		"data": [{
