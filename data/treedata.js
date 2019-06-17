@@ -36,18 +36,18 @@ browsers = [{
 			"url": "firefox",
 			"icon": "firefox"
 		}, {
-		"id": "ffesr",
-		"title": "Firefox ESR",
-		"desc": "Firefox ESR",
-		"url": "",
-		"open": false,
-		"data": [{
 			"id": "5",
 			"title": "Firefox ESR",
 			"desc": "Firefox Extended Support Release 60",
 			"url": "firefoxesr",
 			"icon": "firefoxesr"
 		}, {
+		"id": "ffesr",
+		"title": "Firefox ESR Old",
+		"desc": "Firefox ESR Old",
+		"url": "",
+		"open": false,
+		"data": [{
 			"id": "201",
 			"title": "Firefox ESR 52",
 			"desc": "Firefox Extended Support Release 52",
