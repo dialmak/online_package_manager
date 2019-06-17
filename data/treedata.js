@@ -46,7 +46,7 @@ browsers = [{
 		"title": "Firefox ESR Old",
 		"desc": "Firefox ESR Old",
 		"url": "",
-		"open": false,
+		"open": true,
 		"data": [{
 			"id": "201",
 			"title": "Firefox ESR 52",
@@ -583,10 +583,10 @@ runtimes = [
 			"icon": "net472"			
 		}, {
 		"id": "netold",
-		"title": "Microsoft .NET Old",
-		"desc": "Microsoft .NET Old",
+		"title": ".NET Old",
+		"desc": ".NET Old",
 		"url": "",
-		"open": false,
+		"open": true,
 		"data": [{
 			"id": "38",
 			"title": ".NET 3.5",
