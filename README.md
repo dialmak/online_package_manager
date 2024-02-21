@@ -1,3 +1,3 @@
-# apt-get
-
-https://app.dialmak.pp.ua/
+# apt-get for windows
+# online package manager<br>
+https://dialmak.github.io/app/
